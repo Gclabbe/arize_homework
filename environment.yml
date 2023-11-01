@@ -1,0 +1,20 @@
+name: arize-homework
+
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - langchain
+  - openai
+  - arize-phoenix
+  - rich
+  - plotly
+  - jupyterlab
+  - pip:
+    - jupyter-ai
