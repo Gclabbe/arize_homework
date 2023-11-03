@@ -1,0 +1,13 @@
+pandas
+arize-phoenix[experimental]
+beautifulsoup4
+chromadb
+huggingface-hub
+langchain
+openai
+pycm
+rich
+scikit-learn
+sentence-transformers
+tiktoken
+transformers
