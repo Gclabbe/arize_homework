@@ -1,2 +1,7 @@
 .idea/
 .ipynb_checkpoints/
+.env
+vector_db/chroma.sqlite3
+vector_db/79dbe88e-deb5-40a2-911c-ab68188611cf/
+vector_db/openai/chroma.sqlite3
+vector_db/openai/5060e2a4-50b4-4e34-9951-f3c460266e01/

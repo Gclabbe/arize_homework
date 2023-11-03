@@ -8,13 +8,17 @@ channels:
 dependencies:
   - python=3.10
   - pandas
-  - numpy
-  - scikit-learn
-  - langchain
-  - openai
-  - arize-phoenix
-  - rich
-  - plotly
   - jupyterlab
+  - arize-phoenix=0.0.28
+  - beautifulsoup4=4.12.2
+  - chromadb=0.4.13
+  - huggingface-hub=0.17.3
+  - langchain=0.0.329
+  - openai=0.27.4
+  - plotly
+  - rich=13.3.5
+  - scikit-learn
+  - sentence-transformers=2.2.2
+  - transformers=4.35.0
   - pip:
     - jupyter-ai
